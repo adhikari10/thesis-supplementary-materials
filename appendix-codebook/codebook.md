@@ -1,6 +1,6 @@
 
-# Appendix A — Evaluation Codebook
-## XAI Cybersecurity Thesis — Bibek Adhikari & Tanya Jha
+# Appendix A:  Evaluation Codebook
+## XAI Cybersecurity Thesis - Bibek Adhikari & Tanya Jha
 ## Metropolia University of Applied Sciences, 2026
 
 The following tables present the full scoring rules, evidence criteria, and worked examples for each of the five explainability 
