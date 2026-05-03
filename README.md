@@ -1,8 +1,6 @@
 # Thesis Supplementary Materials
 
-## How Does AI Turn Security Data Into Intelligence That Humans 
-## Can Trust and Act On? A Comparative Proxy Evaluation of 
-## Explainable AI in Commercial Cybersecurity Tools
+## Explainability in AI-Driven Cybersecurity: A Comparative Analysis of User-Facing Transparency in Commercial Tools
 
 **Authors:** Bibek Adhikari & Tanya Jha  
 **Institution:** Metropolia University of Applied Sciences  
@@ -23,29 +21,23 @@ The main thesis is available via the Theseus database.
 
 ## Repository Contents
 
-### 1. Appendix — Evaluation Codebook
+### 1. Appendix - Evaluation Codebook
 `appendix-codebook/codebook.md`
 
-Full scoring rules, evidence criteria, and worked examples 
-for each of the five explainability dimensions used in this 
-study (D1-D5). Referenced from Section 4.4 and Appendix A 
-of the thesis.
+Full scoring rules, evidence criteria, and worked examples for each of the five explainability dimensions used in this 
+study (D1-D5). Referenced from Section 4.4 and Appendix A of the thesis.
 
 ### 2. Wazuh Baseline Technical Documentation
 `wazuh-baseline/technical-documentation.md`
 
-Complete field-level breakdown of the raw JSON alert record 
-for Rule ID 5710, including compliance framework mappings 
-(HIPAA, PCI DSS, TSC) and rule group definitions. Figures 
-8-11 from Section 5.2 of the thesis are also included here.
+Complete field-level breakdown of the raw JSON alert record for Rule ID 5710, including compliance framework mappings 
+(HIPAA, PCI DSS, TSC) and rule group definitions. Figures 8-11 from Section 5.2 of the thesis are also included here.
 
 ### 3. Supplementary Theoretical Analysis
 `supplementary-analysis/trust-calibration-analysis.md`
 
-Extended theoretical interpretation of the transparency gap 
-findings from Section 5.5, examining implications for analyst 
-trust calibration and SOC effectiveness through the frameworks 
-of Lebiere et al. (2021), Rastogi et al. (2025), and 
+Extended theoretical interpretation of the transparency gap findings from Section 5.5, examining implications for analyst 
+trust calibration and SOC effectiveness through the frameworks of Lebiere et al. (2021), Rastogi et al. (2025), and 
 Nobles (2022).
 
 
