@@ -16,7 +16,7 @@ the thesis within the recommended page limit while preserving all supporting dat
 reproducibility.
 
 The main thesis is available via the Theseus database.
-The link to the thesis is: https://www.theseus.fi/handle/10024/920283
+The link to the thesis is: https://urn.fi/URN:NBN:fi:amk-2026051813273
 
 ---
 
